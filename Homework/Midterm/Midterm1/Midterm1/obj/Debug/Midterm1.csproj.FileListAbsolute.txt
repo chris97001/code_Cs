@@ -1,0 +1,7 @@
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm1\Midterm1\bin\Debug\Midterm1.exe.config
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm1\Midterm1\bin\Debug\Midterm1.exe
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm1\Midterm1\bin\Debug\Midterm1.pdb
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm1\Midterm1\obj\Debug\Midterm1.csprojAssemblyReference.cache
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm1\Midterm1\obj\Debug\Midterm1.csproj.CoreCompileInputs.cache
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm1\Midterm1\obj\Debug\Midterm1.exe
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm1\Midterm1\obj\Debug\Midterm1.pdb

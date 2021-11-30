@@ -1,0 +1,10 @@
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework8\Homework8\obj\Debug\Homework8.csprojAssemblyReference.cache
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework8\Homework8\obj\Debug\Homework8.Form1.resources
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework8\Homework8\obj\Debug\Homework8.Properties.Resources.resources
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework8\Homework8\obj\Debug\Homework8.csproj.GenerateResource.cache
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework8\Homework8\obj\Debug\Homework8.csproj.CoreCompileInputs.cache
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework8\Homework8\bin\Debug\Homework8.exe.config
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework8\Homework8\bin\Debug\Homework8.exe
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework8\Homework8\bin\Debug\Homework8.pdb
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework8\Homework8\obj\Debug\Homework8.exe
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework8\Homework8\obj\Debug\Homework8.pdb

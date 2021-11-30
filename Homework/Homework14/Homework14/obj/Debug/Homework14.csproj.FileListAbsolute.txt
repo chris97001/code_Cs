@@ -1,0 +1,11 @@
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework14\Homework14\bin\Debug\Homework14.exe.config
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework14\Homework14\bin\Debug\Homework14.exe
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework14\Homework14\bin\Debug\Homework14.pdb
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework14\Homework14\obj\Debug\Homework14.csprojAssemblyReference.cache
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework14\Homework14\obj\Debug\Homework14.Form1.resources
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework14\Homework14\obj\Debug\Homework14.Properties.Resources.resources
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework14\Homework14\obj\Debug\Homework14.csproj.GenerateResource.cache
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework14\Homework14\obj\Debug\Homework14.csproj.CoreCompileInputs.cache
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework14\Homework14\obj\Debug\Homework14.exe
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework14\Homework14\obj\Debug\Homework14.pdb
+D:\MyFiles\Others\Programs\code_C#\Homework\Homework14\Homework14\obj\Debug\Homework14.Form2.resources

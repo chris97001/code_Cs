@@ -1,0 +1,10 @@
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm3\Midterm3\bin\Debug\Midterm3.exe.config
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm3\Midterm3\bin\Debug\Midterm3.exe
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm3\Midterm3\bin\Debug\Midterm3.pdb
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm3\Midterm3\obj\Debug\Midterm3.csprojAssemblyReference.cache
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm3\Midterm3\obj\Debug\Midterm3.Form1.resources
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm3\Midterm3\obj\Debug\Midterm3.Properties.Resources.resources
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm3\Midterm3\obj\Debug\Midterm3.csproj.GenerateResource.cache
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm3\Midterm3\obj\Debug\Midterm3.csproj.CoreCompileInputs.cache
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm3\Midterm3\obj\Debug\Midterm3.exe
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm3\Midterm3\obj\Debug\Midterm3.pdb

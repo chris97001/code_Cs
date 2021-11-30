@@ -1,0 +1,10 @@
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm22\Midterm22\bin\Debug\Midterm22.exe.config
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm22\Midterm22\bin\Debug\Midterm22.exe
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm22\Midterm22\bin\Debug\Midterm22.pdb
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm22\Midterm22\obj\Debug\Midterm22.csprojAssemblyReference.cache
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm22\Midterm22\obj\Debug\Midterm22.Form1.resources
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm22\Midterm22\obj\Debug\Midterm22.Properties.Resources.resources
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm22\Midterm22\obj\Debug\Midterm22.csproj.GenerateResource.cache
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm22\Midterm22\obj\Debug\Midterm22.csproj.CoreCompileInputs.cache
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm22\Midterm22\obj\Debug\Midterm22.exe
+D:\MyFiles\Others\Programs\code_C#\Homework\Midterm\Midterm22\Midterm22\obj\Debug\Midterm22.pdb
