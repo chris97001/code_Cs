@@ -54,9 +54,18 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlayerController.cs" />
-    <Compile Include="Assets\Scripts\AnimationController.cs" />
-    <Compile Include="Assets\Scripts\GroundSpawner.cs" />
+    <Compile Include="Assets\Scripts\MonsterController.cs" />
     <Compile Include="Assets\Scripts\GroundTile.cs" />
+    <Compile Include="Assets\Scripts\CoinController.cs" />
+    <Compile Include="Assets\Scripts\AnimationController.cs" />
+    <Compile Include="Assets\Scripts\MonsterAnimationController.cs" />
+    <Compile Include="Assets\Scripts\GroundTile_hole.cs" />
+    <Compile Include="Assets\Scripts\GroundSpawner.cs" />
+    <Compile Include="Assets\Scripts\SceneSwitcher.cs" />
+    <Compile Include="Assets\Scripts\BackToMenuSwitcher.cs" />
+    <Compile Include="Assets\Scripts\QuitGameScript.cs" />
+    <Compile Include="Assets\Scripts\UIController.cs" />
+    <Compile Include="Assets\Scripts\TutorialSceneSwitcher.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Resources\uchwch\Toon\Shader\Toon_DoubleShadeWithFeather_Mobile_TransClipping_StencilMask.shader" />
@@ -172,7 +181,7 @@
     <None Include="Assets\Resources\uchwch\Toon\Shader\Toon_ShadingGradeMap_TransClipping.shader" />
     <None Include="Assets\Resources\uchwch\Toon\Shader\ToonColor_ShadingGradeMap_Transparent_StencilOut.shader" />
     <None Include="Assets\Resources\uchwch\Toon\Shader\Toon_DoubleShadeWithFeather_Mobile_StencilMask.shader" />
-    <None Include="Assets\Resources\Fonts\OFL.txt" />
+    <None Include="Assets\Resources\Mini Viking\Fonts\OFL.txt" />
     <None Include="Assets\Resources\uchwch\Toon\Shader\Tess\Toon_ShadingGradeMap_TransClipping_Tess.shader" />
     <None Include="Assets\Resources\uchwch\Toon\Shader\Tess\Toon_DoubleShadeWithFeather_Tess.shader" />
     <None Include="Assets\Resources\uchwch\Toon\Shader\Tess\Toon_DoubleShadeWithFeather_TransClipping_Tess.shader" />
