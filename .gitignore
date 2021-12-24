@@ -261,3 +261,5 @@ __pycache__/
 *.pyc
 Homework/Viking Run/Temp/UnityLockfile
 *.resS
+Homework/Viking Run Game/*
+Homework/Viking Run/Temp/*
