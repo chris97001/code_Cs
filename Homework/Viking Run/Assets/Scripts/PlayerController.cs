@@ -18,7 +18,7 @@ public class PlayerController : MonoBehaviour
     public bool isDead;
     //Move
     public float forwardSpeed = 10f;
-    public float forwardAcceleration = 0.01f;
+    public float forwardAcceleration = 0.05f;
     public float horizontalSpeed = 7.5f;
     public CharacterController controller;
     //Rotation
@@ -133,8 +133,8 @@ public class PlayerController : MonoBehaviour
     }
     private void PlayerCaught()
     {
-        monsterController.catchPlayer();
         isDead = true;
+        monsterController.catchPlayer();
     }
     private void PlayerFall()
     {

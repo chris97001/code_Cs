@@ -39,7 +39,7 @@ public class GroundSpawner : MonoBehaviour
             temp = Instantiate(groundTile, nextSpawnPoint, Quaternion.Euler(0, angle, 0));
 
 
-        nextSpawnPoint = temp.transform.GetChild(1).transform.position;
+        nextSpawnPoint = temp.transform.GetChild(0).transform.position;
     }
     private void Start()
     {

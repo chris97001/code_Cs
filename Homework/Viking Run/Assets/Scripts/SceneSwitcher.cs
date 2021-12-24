@@ -8,6 +8,7 @@ public class SceneSwitcher : MonoBehaviour, IPointerClickHandler
 {
     public void OnPointerClick(PointerEventData e)
     {
-        SceneManager.LoadScene(1);
+
+        SceneManager.LoadScene(2);
     }
 }

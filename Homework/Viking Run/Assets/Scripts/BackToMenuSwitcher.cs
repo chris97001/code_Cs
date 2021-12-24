@@ -8,6 +8,6 @@ public class BackToMenuSwitcher : MonoBehaviour, IPointerClickHandler
 {
     public void OnPointerClick(PointerEventData e)
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 }

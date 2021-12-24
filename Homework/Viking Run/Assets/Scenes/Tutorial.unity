@@ -589,7 +589,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_UiScaleMode: 0
   m_ReferencePixelsPerUnit: 100
-  m_ScaleFactor: 1
+  m_ScaleFactor: 2
   m_ReferenceResolution: {x: 800, y: 600}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
@@ -654,6 +654,7 @@ GameObject:
   - component: {fileID: 2038260674}
   - component: {fileID: 2038260673}
   - component: {fileID: 2038260672}
+  - component: {fileID: 2038260676}
   m_Layer: 5
   m_Name: BackToMenuButton
   m_TagString: Untagged
@@ -775,6 +776,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2038260670}
   m_CullTransparentMesh: 1
+--- !u!114 &2038260676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2038260670}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e884af7219c0d24fb8d4ae1aff107fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SoundEffect: {fileID: 0}
+  audioSource: {fileID: 0}
 --- !u!1 &2128800915
 GameObject:
   m_ObjectHideFlags: 0
